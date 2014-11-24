@@ -8,7 +8,7 @@ v1,0
 }
 #top, #bottom {
   font-family:"Oswald", Impact, Helvetica, sans-serif;
-  font-size:10vw;
+  font-size:7vw;
   font-weight:700;
   padding:1em;
   margin:auto;
@@ -16,7 +16,7 @@ v1,0
 }
 #middle {
   font-family:"Montserrat", sans-serif;
-  font-size:5vw;
+  font-size:3.5vw;
   font-weight:700;
   padding:1em;
   margin:auto;
