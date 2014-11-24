@@ -7,5 +7,5 @@
   var bottom = parts[2];
   $('#top').text(top.toUpperCase());
   $('#middle').text(middle);
-  $('#bottom').text(bottom.toUpperCase());
+  $('#bottom').text(bottom.toUpperCase() + ".");
 })();
