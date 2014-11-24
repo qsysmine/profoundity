@@ -5,7 +5,7 @@
   var top = parts[0];
   var middle = parts[1];
   var bottom = parts[2];
-  $('#top').text(top);
+  $('#top').text(top.toUpperCase());
   $('#middle').text(middle);
-  $('#bottom').text(bottom);
+  $('#bottom').text(bottom.toUpperCase());
 })();
