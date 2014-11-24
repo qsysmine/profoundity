@@ -12,6 +12,7 @@ v1,0
   font-weight:700;
   padding:1em;
   margin:0;
+  display:block;
 }
 #middle {
   font-family:"Montserrat", sans-serif;
