@@ -1,4 +1,17 @@
+@import url(http://fonts.googleapis.com/css?family=Oswald:700|Montserrat:700);
 /*
 Profoundity
 v1,0
 */
+* {
+  text-align:center;
+}
+#top, #bottom {
+  font-family:"Oswald", Impact, Helvetica, sans-serif;
+  font-size:10vw;
+  font-weight:700;
+}
+#middle {
+  font-family:"Montserrat", sans-serif;
+  font-weight:700;
+}
