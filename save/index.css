@@ -13,6 +13,7 @@ v1,0
   padding:1em;
   margin:auto;
   display:block;
+  text-transform:uppercase;
 }
 #middle {
   font-family:"Montserrat", sans-serif;
