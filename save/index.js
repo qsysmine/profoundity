@@ -4,7 +4,10 @@
   $('input').keypress(function(e) {
     if(e.keyCode == 13) {
       data.push({top:$('#top').val(),middle:$('#middle').val(),bottom:$('#bottom').val(),code:unCode});
-      $('input').slideUp();
+      $('#form').fadeOut(500, function() {
+        $('#link').attr("href","/l/#" + unCode);
+        $('#link').slideDown(500);
+      });
     }
   });
 })();
