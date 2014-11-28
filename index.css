@@ -25,3 +25,6 @@ v1,0
 #link, #explanation {
   display:none;
 }
+#devLink {
+  font-size:3vh;
+}
