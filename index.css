@@ -6,6 +6,9 @@ v1,0
 * {
   text-align:center;
 }
+#top,#middle,#bottom {
+  border:0px solid;
+}
 #top, #bottom {
   font-family:"Oswald", Impact, Helvetica, sans-serif;
   font-size:7vw;
