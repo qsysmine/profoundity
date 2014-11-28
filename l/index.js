@@ -14,5 +14,7 @@
       $('#bottom').text(bottom);
       $('#top,#middle,#bottom').fadeIn(500);
     });
+  } else {
+    location.assign("/");
   }
 })();
