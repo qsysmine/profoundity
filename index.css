@@ -19,7 +19,7 @@ v1,0
   text-transform:uppercase;
 }
 #middle, #link, #explanation{
-  font-family:"Montserrat", sans-serif;
+  font-family:"Montserrat", Helvetica, sans-serif;
   font-size:5vh;
   font-weight:700;
   padding:1em;
