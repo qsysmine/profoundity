@@ -1,3 +1,4 @@
+//Look at the dark depths of this website's original code... Spook, isn't it?
 (function() {
   if(location.hash == "") {
     $('#top,#middle,#bottom').hide();
