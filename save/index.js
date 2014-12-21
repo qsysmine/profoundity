@@ -1,3 +1,4 @@
+//Thank GOOGLE that Firebase exists!
 (function() {
   var data = new Firebase("https://profoundity-save.firebaseio.com/");
   var unCode = new Date().getTime() * 2
