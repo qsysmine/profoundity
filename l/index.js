@@ -1,3 +1,4 @@
+//This is code I wrote while tired; it might not necessarily be good; in fact, it's probably bad code. Prepare to cringe.
 (function() {
   var data = new Firebase("https://profoundity-save.firebaseio.com/");
   $('#top,#middle,#bottom').hide();
